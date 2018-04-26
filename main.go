@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/jpillora/opts"
-	"github.com/jpillora/ytmp3/handler"
+	"github.com/qureshijey1/opts"
+	"github.com/qureshijey1/ytmp3/handler"
 )
 
 var VERSION = "0.0.0"
@@ -21,7 +21,7 @@ func main() {
 	}
 	opts.New(&o).
 		Name("ytmp3").
-		Repo("github.com/jpillora/ytmp3").
+		Repo("github.com/qureshijey1/ytmp3").
 		Version(VERSION).
 		Parse()
 	//create an http.Handler
