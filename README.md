@@ -8,7 +8,7 @@ Save bandwidth and listen to your YouTubes as MP3s
 
 #### MIT License
 
-Copyright © 2015 Jaime Pillora &lt;dev@jpillora.com&gt;
+Copyright © 2018 Qureshi Jey &lt;dev@qureshijey1.com&gt;
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
